@@ -14,6 +14,7 @@ kaggle_map/
 │   └── analysis/
 │       └── conflict_data.xlsx
 ├── src/
+│   ├── eda/                     # 探索的データ解析コード
 │   └── experiments/
 │       ├── backup/              # 初期実験のバックアップ
 │       ├── validation/          # 推論、モデルマージ、AWQ量子化コード
